@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<Title>Maui.GoogleMaps.Bindings</Title>
+
+		<Authors>CHGX6</Authors>
+		<Copyright>Copyright 2024</Copyright>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<PackageIcon>logo.png</PackageIcon>
+		<RepositoryUrl>https://github.com/Charlygrind/Maui.GoogleMaps.Bindings</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/Charlygrind/Maui.GoogleMaps.Bindings</PackageProjectUrl>
+		<PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+		<Description>MAP Behaviors library for MAUI that is optimized for Google maps.</Description>
+		<PackageTags>maui maps mauimaps maui.maps mauigooglemaps maui.googlemaps google googlemap mapbehaviors behaviors</PackageTags>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<!-- Versions -->
+		<FileVersion>1.0.3</FileVersion>
+		<Version>1.0.3</Version>
+		<AssemblyVersion>1.0.3</AssemblyVersion>
+		<PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Onion.Maui.GoogleMaps" Version="5.0.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Update="LICENSE.txt">
+		  <Pack>True</Pack>
+		  <PackagePath>\</PackagePath>
+		</None>
+		<None Update="logo.png">
+			<Pack>True</Pack>
+			<PackagePath>\</PackagePath>
+		</None>
+		<None Update="README.md">
+			<Pack>True</Pack>
+			<PackagePath>\</PackagePath>
+		</None>
+	</ItemGroup>
+
+</Project>

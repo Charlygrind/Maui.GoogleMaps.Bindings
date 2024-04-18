@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/Charlygrind/Maui.GoogleMaps.Bindings</projectUrl>
+    <description>$description$</description>
+    <releaseNotes>Port from https://github.com/nuitsjp/Xamarin.Forms.GoogleMaps.Bindings to work with Maui.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>maui maps mauimaps maui.maps mauigooglemaps maui.googlemaps google googlemap mapbehaviors behaviors</tags>
+  </metadata>
+</package>
