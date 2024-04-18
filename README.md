@@ -1,4 +1,4 @@
-## Maui.GoogleMaps.Bindings
+## ![Logo](https://api.nuget.org/v3-flatcontainer/chgx6.maui.googlemaps.bindings/1.0.3/icon) Maui.GoogleMaps.Bindings
 
 Maps bindings library for MAUI.
 Ported library from https://github.com/nuitsjp/Xamarin.Forms.GoogleMaps.Bindings/tree/master to net maui 
