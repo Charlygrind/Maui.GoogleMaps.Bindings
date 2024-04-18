@@ -1,12 +1,10 @@
 ## ![Logo](https://github.com/Charlygrind/Maui.GoogleMaps.Bindings/blob/main/source/Maui.GoogleMaps.Bindings/Maui.GoogleMaps.Bindings/logo.png?raw=true) Maui.GoogleMaps.Bindings
 
-Maps bindings library for MAUI.
-Ported library from https://github.com/nuitsjp/Xamarin.Forms.GoogleMaps.Bindings/tree/master to net maui 
+Maps bindings library for MAUI. This library allows to interact with the map behaviors.
 
-This library has dependency on https://github.com/themronion/Maui.GoogleMaps, and have to be installed or referenced and configures before
+Ported library from https://github.com/nuitsjp/Xamarin.Forms.GoogleMaps.Bindings to net maui 
 
-This library allows to interact with the map behaviors.
-
+This library has dependency on https://github.com/themronion/Maui.GoogleMaps, and have to be installed or referenced and configured before
 
 Could need following packages on android
 
