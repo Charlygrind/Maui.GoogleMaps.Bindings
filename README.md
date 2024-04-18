@@ -1,6 +1,6 @@
 ## ![Logo](https://github.com/Charlygrind/Maui.GoogleMaps.Bindings/blob/main/source/Maui.GoogleMaps.Bindings/Maui.GoogleMaps.Bindings/logo.png?raw=true) Maui.GoogleMaps.Bindings
 
-Maps bindings library for MAUI. This library allows to interact with the map behaviors.
+Maps bindings library for MAUI. This library allows to interact with the map behaviors and MVVM bindings.
 
 Ported library from https://github.com/nuitsjp/Xamarin.Forms.GoogleMaps.Bindings to net maui 
 
