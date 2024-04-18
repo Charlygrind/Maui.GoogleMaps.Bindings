@@ -8,8 +8,9 @@ This library has dependency on https://github.com/themronion/Maui.GoogleMaps, an
 This library allows to interact with the map behaviors.
 
 
-Could need following packages 
+Could need following packages on android
 
+```csharp
 <ItemGroup Condition="'$(TargetFramework)' == 'net8.0-android'">
   <PackageReference Include="Xamarin.AndroidX.Collection">
     <Version>1.4.0.2</Version>
@@ -21,3 +22,6 @@ Could need following packages
     <Version>1.4.0.1</Version>
   </PackageReference>
 </ItemGroup>
+```
+
+(TESTED ON ANDROID)
