@@ -64,4 +64,5 @@ Could need following packages on android
     </StackLayout>
 </ContentPage>
 ```
+NUGGET https://www.nuget.org/packages/CHGX6.Maui.GoogleMaps.Bindings/
 (TESTED ON ANDROID)
